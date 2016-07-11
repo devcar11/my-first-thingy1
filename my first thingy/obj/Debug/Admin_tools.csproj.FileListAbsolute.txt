@@ -1,0 +1,11 @@
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\bin\Debug\Assembly-CSharp.dll
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\bin\Debug\Rocket.API.dll
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\bin\Debug\Rocket.Core.dll
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\bin\Debug\Rocket.Unturned.dll
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\bin\Debug\UnityEngine.dll
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\obj\Debug\Admin_tools.csprojResolveAssemblyReference.cache
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\bin\Debug\AdminTools.dll
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\bin\Debug\AdminTools.pdb
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\obj\Debug\AdminTools.dll
+c:\users\devon\documents\visual studio 2015\Projects\my first thingy\my first thingy\obj\Debug\AdminTools.pdb
