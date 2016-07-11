@@ -88,6 +88,7 @@ namespace AdminTools
             else
             {
                 UnturnedChat.Say(caller, "The player " + otherPlayer.DisplayName + " is not vanish");
+                //i need to make more stuff for the program
             }
         }
     }
