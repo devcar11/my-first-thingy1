@@ -68,12 +68,6 @@ namespace AdminTools
                 return;
             }
 
-            UnturnedPlayer player = (UnturnedPlayer)caller;
-            if (player == null)
-            {
-                return;
-            }
-
             UnturnedPlayer otherPlayer = UnturnedPlayer.FromName(command[0]);
             if (otherPlayer == null)
             {

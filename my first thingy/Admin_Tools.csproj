@@ -58,6 +58,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BetterGod.cs" />
     <Compile Include="config.cs" />
     <Compile Include="CommandAdminTp.cs" />
     <Compile Include="Plugin.cs" />
